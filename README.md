@@ -9,4 +9,6 @@
 🐇╚════════════════════════════════════════════╝🐇
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Old+English+Text+MT&weight=900&size=26&duration=100&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%E2%99%B0+%C2%B7+C+h+i+z+u+G+a+n+g+Z+%C2%B7+%E2%99%B0%09;c%C2%B7g%C2%B7z" alt="Typing SVG" /></a>
+
+<img src="CGZ.png" style="width:100%">
 </div>
